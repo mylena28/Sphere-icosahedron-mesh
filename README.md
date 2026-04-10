@@ -6,7 +6,7 @@ This project generates a high‑quality triangular mesh of a sphere by recursive
 
 Starting from a regular icosahedron (12 vertices, 20 triangular faces), each triangular face is subdivided into 4 smaller triangles by inserting edge midpoints. After each subdivision step, all vertices are normalized (projected onto the unit sphere) to maintain a spherical shape. The refinement level can be adjusted, producing meshes with increasing resolution.
 
-The code is written in **Fortran 90** for performance and simplicity. A **Python 3** script using `matplotlib` is provided for 3D visualisation.
+The code is written in **Fortran** for performance and simplicity. A **Python 3** script using `matplotlib` is provided for 3D visualisation.
 
 ## Requirements
 
