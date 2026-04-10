@@ -1,3 +1,8 @@
+! Sphere Mesh Generator
+! Author: Mylena C Silva
+! Date: 2026
+! Fortran + Python
+      
       subroutine subdivide_mesh(v,f,nv,nf,maxv,maxf)
       implicit none
 
