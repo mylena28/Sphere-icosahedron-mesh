@@ -1,3 +1,8 @@
+! Sphere Mesh Generator
+! Author: Mylena C Silva
+! Date: 2026
+! Fortran + Python
+
       subroutine normalize_vertices(v,nv)
       implicit none
 
