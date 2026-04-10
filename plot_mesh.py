@@ -1,3 +1,9 @@
+# Sphere Mesh Generator
+# Author: Mylena C Silva
+# Date: 2026
+# Fortran + Python
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
