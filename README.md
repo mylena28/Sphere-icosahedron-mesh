@@ -47,3 +47,6 @@ python plot_mesh.py
 ```
 
 A 3D plot window will open showing the spherical mesh.
+
+<img width="458" height="371" alt="image" src="https://github.com/user-attachments/assets/c02e9f1c-bfd7-46e6-abef-bb6b3bac6921" />
+
