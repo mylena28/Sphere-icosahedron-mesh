@@ -26,6 +26,12 @@ All Fortran files must be compiled together. For example with gfortran:
 gfortran -o sphere_mesh main.f create_icosahedron.f subdivide.f normalize_vertices.f write_mesh.f
 ```
 
+or just use the Make file
+
+``` bash
+make
+```
+
 Run the executable
 
 ```bash
